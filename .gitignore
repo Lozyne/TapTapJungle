@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TapTapJungle/Temp/UnityVS_obj/Debug
+/TapTapJungle/Temp/UnityTempFile-d2d946e41ce4d5642a80dcde0a16753c
+/TapTapJungle/Temp/UnityTempFile-befc33a7b2fee6a4fb3de00fd4d48d1d
+/TapTapJungle/Temp/UnityTempFile-6db97f1343230fd46a6628675141f438
+/TapTapJungle/Temp/UnityLockfile
+/TapTapJungle/Library/EditorInstance.json
+/TapTapJungle/Temp
